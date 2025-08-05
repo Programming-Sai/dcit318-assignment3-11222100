@@ -105,7 +105,7 @@ namespace FinanceManager
 
             var t1 = new Transaction(1, DateTime.Now, 150m, "Groceries");
             var t2 = new Transaction(2, DateTime.Now, 500m, "Rent");
-            var t3 = new Transaction(3, DateTime.Now, 400m, "Online Course");
+            var t3 = new Transaction(3, DateTime.Now, 400m, "Online Courses");
 
             var processors = new List<ITransactionProcessor>
             {
