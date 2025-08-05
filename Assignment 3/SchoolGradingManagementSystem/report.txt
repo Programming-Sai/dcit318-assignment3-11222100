@@ -1,0 +1,4 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+Bob Johnson (ID: 102): Score = 73, Grade = B
+Clara Adams (ID: 103): Score = 65, Grade = C
+David Lee (ID: 104): Score = 45, Grade = F

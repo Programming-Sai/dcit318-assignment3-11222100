@@ -209,7 +209,6 @@ class Program
         }
 
         Console.WriteLine("\n✅ Program complete.");
-        Console.WriteLine("\nPress any key to exit...");
-        Console.ReadKey();
+
     }
 }
